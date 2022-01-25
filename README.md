@@ -1,6 +1,6 @@
 # Duplicate Elimination using The Two-Pass Multiway Merge Sort
 
-Using `jdk-11.0.11.9-hotspot`
+Using jdk-11
 
 ## Folder Structure
 - `src`: The folder to maintain sources.
